@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gregbehm.
 - 👀 I’m interested in large-scale scientific computing and planetary sustainability.
-- 🌱 I’m currently learning Dask and cloud computing.
+- 🌱 I’m currently learning Dask, xarray, and cloud computing.
 - 📫 Find me on [LinkedIn](https://www.linkedin.com/in/gregbehm/) or [Twitter](https://twitter.com/gregbehm).
 
 <!---
